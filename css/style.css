@@ -3766,7 +3766,19 @@ input[type="button"].btn-block {
     color: #fff; }
     .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
       color: #fff; }
+.skill-box {
+    height: 140px;
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill-box h3 {
+    font-size: 28px;
+    line-height: 1.4;
+    margin: 0;
+}
 .card {
   position: relative;
   display: -webkit-box;
